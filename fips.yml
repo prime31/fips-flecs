@@ -1,0 +1,15 @@
+#
+# fips-flecs
+#
+---
+exports:
+    modules:
+        flecs: modules/flecs
+        flecs-admin: modules/flecs-admin
+    header-dirs:
+        - modules/flecs/flecs/include
+        - modules/flecs/flecs-util/include
+        - modules/flecs/bake/util/include
+        - modules/flecs-admin/flecs-systems-civetweb/include
+        - modules/flecs-admin/flecs-systems-admin/include
+        - modules/flecs-admin/flecs-components-http/include

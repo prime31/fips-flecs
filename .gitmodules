@@ -1,0 +1,18 @@
+[submodule "modules/flecs/flecs"]
+	path = modules/flecs/flecs
+	url = https://github.com/SanderMertens/flecs
+[submodule "modules/flecs/flecs-util"]
+	path = modules/flecs/flecs-util
+	url = https://github.com/flecs-hub/flecs-util
+[submodule "modules/flecs/bake"]
+	path = modules/flecs/bake
+	url = https://github.com/SanderMertens/bake.git
+[submodule "modules/flecs-admin/flecs-components-http"]
+	path = modules/flecs-admin/flecs-components-http
+	url = https://github.com/flecs-hub/flecs-components-http
+[submodule "modules/flecs-admin/flecs-systems-admin"]
+	path = modules/flecs-admin/flecs-systems-admin
+	url = https://github.com/flecs-hub/flecs-systems-admin
+[submodule "modules/flecs-admin/flecs-systems-civetweb"]
+	path = modules/flecs-admin/flecs-systems-civetweb
+	url = https://github.com/flecs-hub/flecs-systems-civetweb
